@@ -12,7 +12,7 @@ Overview photo:
 ![Overview photo](Miss-flyer-overview.jpg)
 
 CAD render:
-![CAD model](Miss-flyer-CAD.jpg)
+![CAD model](Miss-flyer-CAD.JPG)
 
 Lasercut overview:
 ![Lasercut photo](Miss-flyer-lasercut.png)
