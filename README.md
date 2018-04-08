@@ -5,15 +5,20 @@ The paper plane folder can turn an ordenairy paper into an extra ordaniary paper
 Entirely made from a single sheet of lasercutted plywood.
 
 *Picture of product in use*
-![Demo photo](Miss-flyer-folding step 3.jpg)
+
+![Demo photo](Miss-flyer-folding-step-3.jpg)
+
 Overview photo:
-![Overview photo](Miss-flyer-Overview.jpg)
+![Overview photo](Miss-flyer-overview.jpg)
+
 CAD render:
 ![CAD model](Miss-flyer-CAD.jpg)
+
 Lasercut overview:
-![Lasercut photo](Miss-flyer-lasercut.jpg)
+![Lasercut photo](Miss-flyer-lasercut.png)
+
 Initial sketch:
-![Initial sketch](Miss-flyer-sketch.jpg)
+![Initial sketch](Miss-flyer-sketch.png)
 
 ***
 Bill Of Material:
@@ -45,5 +50,6 @@ Future development:
 ![Open Source Hardware](OpenSourceHardware.svg)
 
 It's Open Source, enjoy!
+
 Made for PO2 Project at the Technical university of Delft.
 ***
