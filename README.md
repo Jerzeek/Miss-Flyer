@@ -1,24 +1,23 @@
 ![Project logo](Miss-flyer-logo.png)
 ***
-# Miss-Flyer
-
-Miss flyer the best use of a misprint!
+Miss Flyer the best use of a misprint!
 The paper plane folder can turn an ordenairy paper into an extra ordaniary paper plane with only one swipe!
 Entirely made from a single sheet of lasercutted plywood.
 
-~Picture of product in use~
-![Demo photo](Miss-flyer-folding step 3.JPG)
+*Picture of product in use*
+![Demo photo](Miss-flyer-folding step 3.jpg)
 Overview photo:
-![Overview photo](Miss-flyer-Overview.JPG)
+![Overview photo](Miss-flyer-Overview.jpg)
 CAD render:
-![CAD model](Miss-flyer-CAD.JPG)
+![CAD model](Miss-flyer-CAD.jpg)
 Lasercut overview:
-![Lasercut photo](Miss-flyer-lasercut.JPG)
+![Lasercut photo](Miss-flyer-lasercut.jpg)
 Initial sketch:
-![Initial sketch](Miss-flyer-sketch.JPG)
+![Initial sketch](Miss-flyer-sketch.jpg)
 
 ***
 Bill Of Material:
+
 
 |Quantity|Description|Dimentions|
 |--------|-----------|---------|
@@ -28,7 +27,7 @@ Bill Of Material:
 
 ***
 Instructions:
-~To be written~
+*To be written*
 
 ***
 Changelog:
@@ -44,6 +43,7 @@ Future development:
 
 ***
 ![Open Source Hardware](OpenSourceHardware.svg)
+
 It's Open Source, enjoy!
 Made for PO2 Project at the Technical university of Delft.
 ***
