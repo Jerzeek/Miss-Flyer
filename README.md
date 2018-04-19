@@ -27,8 +27,8 @@ How i made all of this? I kept a A3 logbook:
 
 ***
 Video:
-
-[![Miss Flyer Video ](https://img.youtube.com/vi/A3kHtu0t324/0.jpg)](https://www.youtube.com/watch?v=A3kHtu0t324)
+(click on image)
+[![Miss Flyer Video ](http://img.youtube.com/vi/A3kHtu0t324/maxresdefault.jpg)](https://www.youtube.com/watch?v=A3kHtu0t324)
 
 ***
 Bill Of Material:
@@ -38,7 +38,7 @@ Bill Of Material:
 |--------|-----------|---------|
 |1|Sheet of plywood|5mm 830x650mm|
 |1|Fishing rod or other thin wire|40cm|
-|1|Binder clip|20mm(smaller the better)|
+|1|Binder clip|20mm(smaller=better)|
 |1|Rubber|20x10mm|
 
 ***
@@ -80,7 +80,7 @@ Future development:
  - [ ] No need for glue (?)
  - [x] Engraving
  - [ ] More paper plane designs
-
+ - [x] Have a paper plane war at the office!
 
 ***
 ![Open Source Hardware](Pictures/OpenSourceHardware.svg)
