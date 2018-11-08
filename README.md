@@ -6,7 +6,8 @@ It can turn an ordenairy paper into an extra ordaniary paper plane with only one
 
 Entirely made from one single sheet of lasercutted plywood.
 
-KRO-NCRV, Klaas vindt uit (Dutch TV) seemed to like it, so they wanted to show it to everyone :smiley: here is a to the video:
+KRO-NCRV, Klaas vindt uit (Dutch TV) seemed to like it, so they wanted to show it to everyone :smiley:
+here is a to the video:
 (click on image)
 [![Klaas vindt uit video ](https://img.youtube.com/vi/qRwEvvZekd8/maxresdefault.jpg)](https://www.youtube.com/watch?v=qRwEvvZekd8)
 
@@ -75,14 +76,14 @@ NOW HAVE FUN!!
 ***
 Changelog:
  - Version 1: Genesis
- - Version 2: Changed xx from 5mm to 3mm, changed distance between step 1 and 2 from xx mm to xx mm
- - Version 3: Zohar & me made the second version but this raised some issues. changed xx from 3mm to 5mm again cause the paper kept ripping. changed the cutouts to 4.95mm so it's more of a friction fit.
+ - Version 2: Changed gap from 5mm to 3mm, changed distance between step 1 and 2 from 120 mm to 140 mm
+ - Version 3: Zohar & me made the second version but this raised some issues. changed gap back to 5mm again cause the paper kept ripping. changed the cutouts to 4.95mm so it's more of a friction fit.
 ***
 Future development:
  - [x] Write building Instructions
  - [x] Better performance
  - [x] Engraving
- - [ ] No need for glue (?)
+ - [ ] No need for glue
  - [ ] More paper plane designs
  - [x] Have a paper plane war at the office!
 
