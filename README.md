@@ -98,4 +98,7 @@ send me an email (info @ jerrydevos.nl)
 
 The paper plane folder isn't perfect, sometimes the paper creases. let me know if you have improvements :smiley:
 
+![CC license](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+
+
 ***
